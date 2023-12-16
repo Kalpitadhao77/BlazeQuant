@@ -21,7 +21,7 @@ from streamlit_player import st_player
 
 # In[99]:
 
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 def home():
     from streamlit_player import st_player
 
