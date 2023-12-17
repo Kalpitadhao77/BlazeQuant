@@ -862,7 +862,7 @@ def sma():
         l=[]
         l=(stats)
         df=pd.DataFrame(l)
-        df#44
+        
 #         print(df)
 #         f.append(df)
         c1, c2 = st.columns([1,2])
