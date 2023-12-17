@@ -11,7 +11,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import plotly.subplots as sp
 # import data
-import plotly.offline as pyo
 import plotly.graph_objs as go
 import numpy as np
 theme_plotly = None
